@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @0HuN-TeR0
+- 👋 Hi, I’m Bijay Soti
 - 👀 I’m interested in A.I,M.L
-- 🌱 I’m currently learning Web designing
-- 💞️ I’m looking to collaborate on web and graphic designing
+- 🌱 I’m currently learning Data science and ML
+- 💞️ I’m looking to collaborate on web and data science projects
 - 📫 How to reach me ....
 -E-mail me:810bjsoti@gmail.com 
 
